@@ -1,20 +1,113 @@
-# 💫 About Me:
-ผมเป็นนักพัฒนาเว็บไซต์ที่หลงใหลในการรังสรรค์ **High-Performance Websites** ด้วยการเขียนโค้ด (Hard Code)
-- 🔭 ตอนนี้ผมกำลังรับทำ: **เว็บไซต์โปรไฟล์บริษัท / Portfolio (5-8 หน้า)**
-- 🌱 กำลังศึกษาเพิ่มเติม: **Tailwind CSS & React**
-- ⚡ จุดเด่น: เน้นโค้ดสะอาด (Clean Code) และ Responsive Design (รองรับทุกหน้าจอ)
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kritsanagun.changsalak/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jdxisuki/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kritsanakan-changsalak-403a41323/) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=120&section=header&text=Kritsanakan%20C.&fontSize=42&fontColor=0A0A0A&fontAlignY=38&desc=Freelance%20Web%20Developer&descAlignY=60&descColor=0A0A0A" width="100%"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Conversx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Conversx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Conversx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+  Landing Page & CMS Specialist
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Nuxt 4  ·  Tailwind  ·  Sanity  ·  Vercel
+  ส่งใน 7 วัน  ·  PageSpeed 90+  ·  ฿0 Hosting
+```
+
+[![Fastwork](https://img.shields.io/badge/⚡%20Fastwork-kritsanakan-C9A84C?style=flat-square&labelColor=111111)](https://fastwork.co/user/kritsanakan)
+&nbsp;
+[![LINE](https://img.shields.io/badge/💬%20LINE-%40kritsanakan-00B900?style=flat-square&labelColor=111111)](https://line.me)
+&nbsp;
+[![Email](https://img.shields.io/badge/✉%20Email-kritsanakan%40email.com-888888?style=flat-square&labelColor=111111)](mailto:kritsanakan@email.com)
+
+</div>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Conversx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=kritsanakan&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=C9A84C&icon_color=C9A84C&text_color=AAAAAA&ring_color=C9A84C" />
+
+### 👤 &nbsp;About Me
+
+```typescript
+const kritsanakan = {
+  role:     "Freelance Web Developer",
+  focus:    ["Landing Page", "CMS Integration"],
+  stack:    ["Nuxt 4", "Tailwind", "Sanity"],
+  deploy:   "Vercel (฿0/mo)",
+  delivery: "7 days",
+  scope:    "ชัด · ไม่มี surprise · จบแล้วจบ",
+}
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠 &nbsp;Tech Stack
+
+<div align="center">
+
+![Nuxt.js](https://img.shields.io/badge/Nuxt%204-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=111111)
+![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vue.js&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=111111)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=111111)
+
+</div>
+
+---
+
+### 📦 &nbsp;Services
+
+<div align="center">
+
+| | Package | สิ่งที่ได้รับ | ราคา | เวลา |
+|:---:|:---|:---|:---:|:---:|
+| 🔹 | **One-Page Site** | 5 section · Mobile · PageSpeed 90+ · Source Code · Vercel deploy | **฿4,500** | 7 วัน |
+| 🔸 | **One-Page + CMS** | ทุกอย่างใน Basic + Sanity CMS แก้เองได้ + VDO สอนใช้ | **฿7,500** | 10 วัน |
+
+</div>
+
+> &nbsp;**ไม่มีค่า Hosting รายเดือน** &nbsp;·&nbsp; Source Code เป็นของลูกค้า 100% &nbsp;·&nbsp; งานนอก scope คิดเพิ่มโปร่งใส
+
+---
+
+### 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kritsanakan&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=C9A84C&icon_color=C9A84C&text_color=AAAAAA&count_private=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritsanakan&layout=compact&theme=dark&hide_border=true&bg_color=111111&title_color=C9A84C&text_color=AAAAAA&langs_count=6" />
+
+</div>
+
+---
+
+### ✦ &nbsp;Why Me
+
+```
+  ✔  Scope ชัดตั้งแต่ต้น  —  ราคาตายตัว ไม่บวกกลางทาง
+  ✔  ส่ง Source Code ทุกงาน  —  เจ้าของ 100% จ้างคนอื่นต่อได้
+  ✔  PageSpeed 90+ ทุกงาน  —  แนบหลักฐานพร้อมงาน
+  ✔  ตอบทุกวันช่วงเย็น  —  ไม่หายหัว ไม่ทิ้งงาน
+  ✔  จบแล้วจบเลย  —  ไม่มีค่า maintenance ซ่อนเร้น
+```
+
+---
+
+<div align="center">
+
+[![Hire Me](https://img.shields.io/badge/─────────%20Hire%20Me%20on%20Fastwork%20─────────-C9A84C?style=for-the-badge&labelColor=C9A84C&color=111111)](https://fastwork.co/user/kritsanakan)
+
+<sub>พร้อมรับงาน 1 โปรเจกต์ / สัปดาห์ &nbsp;·&nbsp; ตอบช่วงเย็นทุกวัน</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=80&section=footer" width="100%"/>
+
+</div>
