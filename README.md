@@ -31,12 +31,12 @@
 
 ### 👤 &nbsp;About Me
 
-```typescript
+```javascript
 const kritsanakan = {
   role:     "Freelance Web Developer",
   focus:    ["Landing Page", "CMS Integration"],
   stack:    ["Nuxt 4", "Tailwind", "Sanity"],
-  deploy:   "Vercel (฿0/mo)",
+  deploy (demo):   "Vercel (฿0/mo)",
   delivery: "7 days",
   scope:    "ชัด · ไม่มี surprise · จบแล้วจบ",
 }
@@ -50,9 +50,9 @@ const kritsanakan = {
 
 <div align="center">
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt%204-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=111111)
 ![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vue.js&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=111111)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=111111)
@@ -82,7 +82,7 @@ const kritsanakan = {
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kritsanakan&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=C9A84C&icon_color=C9A84C&text_color=AAAAAA&count_private=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritsanakan&layout=compact&theme=dark&hide_border=true&bg_color=111111&title_color=C9A84C&text_color=AAAAAA&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritsanakan&layout=compact&theme=dark&hide_border=true&bg_color=111111&title_color=C9A84C&text_color=AAAAAA&langs_count=6&hide=css" />
 
 </div>
 
