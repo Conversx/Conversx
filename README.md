@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=120&section=header&text=Kritsanakan%20C.&fontSize=42&fontColor=0A0A0A&fontAlignY=38&desc=Freelance%20Web%20Developer&descAlignY=60&descColor=0A0A0A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=120&section=header&text=Kritsanakan%20C.&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Freelance%20Web%20Developer&descAlignY=60&descColor=111111" width="100%"/>
 
 </div>
 
@@ -16,10 +16,6 @@
 ```
 
 [![Fastwork](https://img.shields.io/badge/⚡%20Fastwork-kritsanakan-C9A84C?style=flat-square&labelColor=111111)](https://fastwork.co/user/kritsanakan)
-&nbsp;
-[![LINE](https://img.shields.io/badge/💬%20LINE-%40kritsanakan-00B900?style=flat-square&labelColor=111111)](https://line.me)
-&nbsp;
-[![Email](https://img.shields.io/badge/✉%20Email-kritsanakan%40email.com-888888?style=flat-square&labelColor=111111)](mailto:kritsanakan@email.com)
 
 </div>
 
@@ -36,7 +32,7 @@ const kritsanakan = {
   role:     "Freelance Web Developer",
   focus:    ["Landing Page", "CMS Integration"],
   stack:    ["Nuxt 4", "Tailwind", "Sanity"],
-  deploy (demo):   "Vercel (฿0/mo)",
+  deploy:   "Vercel (฿0/mo)",
   delivery: "7 days",
   scope:    "ชัด · ไม่มี surprise · จบแล้วจบ",
 }
